@@ -1,3 +1,3 @@
 # LGH
 learn git hub
-hello piyapat pattaralick  ^^
+hello piyapat pattaraluck  ^^
